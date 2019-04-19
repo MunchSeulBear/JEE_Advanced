@@ -7,124 +7,100 @@ Timetable
 6) Week 6 - 20-26
 
 Timetable
-    08:30 - 12:00 : Physics
-    12:00 - 13:30 : Revision / Physics DPPs/ TWTs
-    14:30 - 16:30 : Physical Chemistry
-    16:30 - 16:45 : Break
-    16:45 - 18:45 : Organic Chemistry
-    18:45 - 19:00 : Break
-    19:00 - 21:00 : Inorganic Chemistry
-    21:00 - 21:30 : Revision / Chemistry DPPs/ TWTs
-    22:30 - 02:30 : Maths
-    02:30 - 03:30 : Revision / Maths DPPs/ TWTs
+08:30 - 11:30 : Physics
+12:00 - 13:30 : Maths
+14:30 - 16:30 : Maths
+16:30 - 19:30 : Physical Chemistry
+19:30 - 21:30 : Physics
+22:30 - 12:00 : Maths
+12:00 - 01:30 : Physics DPPs/ TWTs
+01:30 - 03:00 : Maths DPPs/ Twts
 
 1) Physics
     1) Mechanics
-        1) Vectors - 17
-        2) Units, Dimensions, Errors and Measurement - 17
-        3) Kinematics - 17
-        5) Circular Motion - 17
-        6) Work, Power and Energy - 17
-        7) Centre of Mass and Collision - 17
-        8) Rotational Dynamics - 18
-        9) Gravitation - 19
-        10) Mechanical Properties of Matter - 20
-        11) Fluid Mechanics - 21
+        1) Vectors - 19
+        2) Units, Dimensions, Errors and Measurement - 19
+        3) Kinematics - 19
+        5) Circular Motion - 19
+        6) Work, Power and Energy - 19
+        7) Centre of Mass and Collision - 19
+        8) Rotational Dynamics - 20
+        9) Gravitation - 21
+        10) Mechanical Properties of Matter - 22
+        11) Fluid Mechanics - 23
     2) Heat and Thermodynamics
-        1) Heat Transfer and Radiation - 22
-        2) Kinetic Theory of Gases - 22
-        3) Thermodynamics - 23
-        4) Thermal Expansion - 23
-        5) Calorimetry - 23
+        1) Heat Transfer and Radiation - 24
+        2) Kinetic Theory of Gases - 24
+        3) Thermodynamics - 24
+        4) Thermal Expansion - 24
+        5) Calorimetry - 24
     3) Electricity and Magnetism
-        1) Electrostatics - 24
-        2) Capacitors - 25
-        3) Current Electricity - 26 
+        1) Electrostatics - 25
+        2) Capacitors - 26
+        3) Current Electricity - 26
         4) Magnetism - 27
-        5) Electromagnetic Induction - 28 
-        6) Alternate Current - 29
-        7) Electromagnetic Waves - 29
+        5) Electromagnetic Induction - 27
+        6) Alternate Current - 28
+        7) Electromagnetic Waves - 28
     4) Waves
-        1) Simple Harmonic Motion - 30
-        2) Wave Motion - 1, 2
+        1) Simple Harmonic Motion - 29
+        2) Wave Motion - 30
     5) Optics
-        1) Ray Optics - 3
-        2) Wave Optics - 4
-    6) Modern Physics - 5, 6
-2) Chemistry
-    1) Physical Chemistry
-        1) Atomic Structure - 17
-        2) Mole Concept - 18
-        3) Periodic Properties - 19
-        4) Gaseous State - 20
-        5) Chemical Bonding - 21
-        6) Thermodynamics and Thermochemistry - 22, 23
-        7) Chemical Equilibrium - 24
-        8) Ionic Equilibrium - 25, 26
-        9) Volumetric Analysis - 27, 28
-        10) Solid State - 29, 30
-        11) Solution and Their Colligative Properties - 1, 2
-        12) Nuclear Chemistry - 3
-    2) Organic Chemistry
-        1) IUPAC Naming - 17
-        2) General Organic Chemistry - 18, 19, 20, 21
-        3) Alkanes - 22, 23
-        4) Alkenes - 24, 25
-        5) Alkynes - 26, 27
-        6) Aromatic Hydrocarbons - 28, 29
-        7) Alkyl and Aryl Halides - 30, 1, 2
-        8) Alcohols, Phenols and Ethers - 3, 4, 5, 6
-        9) Aldehydes and Ketones - 7, 8, 9, 10
-        10) Carboxylic Acids - 11, 12
-        11) Amines - 13
-        12) Biomolecules - 14
-        13) Polymers - 15
-        14) Practical Organic Chemistry - 16
-    3) Inorganic Chemistry
-        1) S Block - 17, 18, 19, 20
-        2) P Block - 21, 22, 23, 24, 25, 26
-        3) D and F Block - 27, 28, 29, 30
-        4) Metallurgy - 1, 2, 3, 4
-        5) Coordination Compounds - 5, 6, 7
-        6) Salt Analysis - 8, 9, 10, 11
+        1) Ray Optics - 1
+        2) Wave Optics - 2
+    6) Modern Physics - 3
+2) Physical Chemistry
+    1) Atomic Structure - 19
+    2) Mole Concept - 20
+    3) Periodic Properties - 21, 22
+    4) Gaseous State - 23, 24
+    5) Chemical Bonding - 25, 26
+    6) Thermodynamics and Thermochemistry - 27, 28, 29
+    7) Chemical Equilibrium - 30
+    8) Ionic Equilibrium - 1, 2
+    9) Volumetric Analysis - 3, 4
+    10) Solid State - 5, 6
+    11) Solution and Their Colligative Properties - 7, 8
+    12) Surface Chemistry - 9, 10
+    13) Nuclear Chemistry - 11
 3) Maths
     1) Algebra
-        1) Quadratic Equations - 17
-        2) Inequations and Equations - 18
-        3) Sequence and Series - 18
-        4) Permutation and Combination - 24
-        5) Binomial Theorem - 25
-        6) Probability - 26
-        7) Complex Numbers - 27, 28
-        8) Determinants and Matrices - 29, 30
+        1) Quadratic Equations - 19
+        2) Inequations and Equations - 20
+        3) Sequence and Series - 20
+        4) Permutation and Combination - 21
+        5) Binomial Theorem - 22
+        6) Probability - 23
+        7) Complex Numbers - 24, 25
+        8) Determinants and Matrices - 26
     2) Trigonometry
-        1) Trigonometric Ratios and Identities - 17
-        2) Trigonometric Equations - 17
-        3) Inverse Trigonometric Functions - 5
-        4) Solutions of Triangles - 6
+        1) Trigonometric Ratios and Identities - 21
+        2) Trigonometric Equations - 21
+        3) Inverse Trigonometric Functions - 27
+        4) Solutions of Triangles - 27
     3) Coordinate Geometry
-        1) Straight Lines and Pair of Straight Lines - 19
-        2) Circle - 20
-        3) Parabola - 21
-        4) Ellipse - 22
-        5) Hyperbola - 23
+        1) Straight Lines and Pair of Straight Lines - 28
+        2) Circle - 28
+        3) Parabola - 29
+        4) Ellipse - 30
+        5) Hyperbola - 1
     4) Differential Calculus
-        1) Functions - 24
-        2) Limits - 25
-        3) Continuity - 25
-        4) Differentiability - 25
-        5) Method of Differentiability - 26
-        6) Application of Derivatives - 27
+        1) Functions - 2
+        2) Limits - 3
+        3) Continuity - 3
+        4) Differentiability - 3
+        5) Method of Differentiability - 4
+        6) Application of Derivatives - 5
     5) Integral Calculus
-        1) Indefinite Integration - 28, 29, 30
-        2) Definite Integration - 1, 2
-        3) Area Under The Curve - 3
-        4) Differential Equations - 4
+        1) Indefinite Integration - 6, 7
+        2) Definite Integration - 8, 9
+        3) Area Under The Curve - 10
+        4) Differential Equations - 11
     6) Vectors and 3D Geometry
-        1) Vectors - 7
-        2) 3D Geometry - 8
+        1) Vectors - 12
+        2) 3D Geometry - 12
 
 FIITJEE Final Lap
-    1) Part 1 - 17, 18, 19, 20, 21, 22, 23, 24
-    2) Part 2 - 25, 26, 27, 28, 29, 30, 1, 2
-    3) Part 3 - 3, 4, 5, 6, 7, 8, 9, 10
+    1) Part 1 - 19, 20, 21, 22, 23, 24, 25, 26
+    2) Part 2 - 27, 28, 29, 30, 1, 2, 3, 4
+    3) Part 3 - 5, 6, 7, 8, 9, 10, 11, 12
