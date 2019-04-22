@@ -18,89 +18,124 @@ Timetable
 
 1) Physics
     1) Mechanics
-        1) Vectors - 19
-        2) Units, Dimensions, Errors and Measurement - 19
-        3) Kinematics - 19
-        5) Circular Motion - 19
-        6) Work, Power and Energy - 19
-        7) Centre of Mass and Collision - 19
-        8) Rotational Dynamics - 20
-        9) Gravitation - 21
-        10) Mechanical Properties of Matter - 22
-        11) Fluid Mechanics - 23
+        1) Vectors - 22
+        2) Units, Dimensions, Errors and Measurement - 22
+        3) Kinematics - 22
+        5) Circular Motion - 22
+        6) Work, Power and Energy - 22
+        7) Centre of Mass and Collision - 22
+        8) Gravitation - 22
+        9) Rotational Dynamics - 23
+        10) Mechanical Properties of Matter - 24
+        11) Fluid Mechanics - 24
     2) Heat and Thermodynamics
-        1) Heat Transfer and Radiation - 24
-        2) Kinetic Theory of Gases - 24
-        3) Thermodynamics - 24
-        4) Thermal Expansion - 24
-        5) Calorimetry - 24
+        1) Heat Transfer and Radiation - 25
+        2) Kinetic Theory of Gases - 25
+        3) Thermodynamics - 25
+        4) Thermal Expansion - 25
+        5) Calorimetry - 25
     3) Electricity and Magnetism
-        1) Electrostatics - 25
-        2) Capacitors - 26
-        3) Current Electricity - 26
-        4) Magnetism - 27
-        5) Electromagnetic Induction - 27
-        6) Alternate Current - 28
-        7) Electromagnetic Waves - 28
+        1) Electrostatics - 26
+        2) Capacitors - 27
+        3) Current Electricity - 27
+        4) Magnetism - 28
+        5) Electromagnetic Induction - 29
+        6) Alternate Current - 30
+        7) Electromagnetic Waves - 30
     4) Waves
-        1) Simple Harmonic Motion - 29
-        2) Wave Motion - 30
+        1) Simple Harmonic Motion - 1
+        2) Wave Motion - 2
     5) Optics
-        1) Ray Optics - 1
-        2) Wave Optics - 2
-    6) Modern Physics - 3
-2) Physical Chemistry
-    1) Atomic Structure - 19
-    2) Mole Concept - 20
-    3) Periodic Properties - 21, 22
-    4) Gaseous State - 23, 24
-    5) Chemical Bonding - 25, 26
-    6) Thermodynamics and Thermochemistry - 27, 28, 29
-    7) Chemical Equilibrium - 30
-    8) Ionic Equilibrium - 1, 2
-    9) Volumetric Analysis - 3, 4
-    10) Solid State - 5, 6
-    11) Solution and Their Colligative Properties - 7, 8
-    12) Surface Chemistry - 9, 10
-    13) Nuclear Chemistry - 11
+        1) Ray Optics - 3
+        2) Wave Optics - 4
+    6) Modern Physics - 5
+2)Chemistry
+    1) Physical Chemistry: 
+        1) Atomic Structure - 22
+        2) Mole Concept - 22
+        3) Periodic Properties - 23
+        4) Gaseous State - 24
+        5) Chemical Bonding - 25, 26
+        6) Thermodynamics and Thermochemistry - 26
+        7) Chemical Equilibrium - 27
+        8) Ionic Equilibrium - 27, 28
+        9) Volumetric Analysis - 29
+        10) Solid State - 30, 1
+        11) Solution and Their Colligative Properties - 2
+        12) Surface Chemistry - 3
+        13) Nuclear Chemistry - 3
+    2) Organic Chemistry:
+        -
+    3) Inorganic Chemistry:
+        1) Coordination Compounds - 22, 23, 24, 25
+        2) P Block - 26, 27, 28, 29, 30, 1, 2, 3
 3) Maths
     1) Algebra
-        1) Quadratic Equations - 19
-        2) Inequations and Equations - 20
-        3) Sequence and Series - 20
-        4) Permutation and Combination - 21
-        5) Binomial Theorem - 22
-        6) Probability - 23
-        7) Complex Numbers - 24, 25
-        8) Determinants and Matrices - 26
+        1) Quadratic Equations - 26
+        2) Inequations and Equations - 26
+        3) Sequence and Series - 27
+        4) Permutation and Combination - 27, 28
+        5) Binomial Theorem - 28, 29
+        6) Probability - 30
+        7) Complex Numbers - 1, 2
+        8) Determinants and Matrices - 3
     2) Trigonometry
-        1) Trigonometric Ratios and Identities - 21
-        2) Trigonometric Equations - 21
-        3) Inverse Trigonometric Functions - 27
-        4) Solutions of Triangles - 27
+        1) Trigonometric Ratios and Identities - 26
+        2) Trigonometric Equations - 26
+        3) Inverse Trigonometric Functions
+        4) Solutions of Triangles
     3) Coordinate Geometry
-        1) Straight Lines and Pair of Straight Lines - 28
-        2) Circle - 28
-        3) Parabola - 29
-        4) Ellipse - 30
-        5) Hyperbola - 1
+        1) Straight Lines - 22
+        2) Circle - 22
+        3) Parabola - 23
+        4) Ellipse - 24
+        5) Hyperbola - 25
     4) Differential Calculus
-        1) Functions - 2
-        2) Limits - 3
-        3) Continuity - 3
-        4) Differentiability - 3
-        5) Method of Differentiability - 4
-        6) Application of Derivatives - 5
+        1) Functions - 4
+        2) Limits - 4
+        3) Continuity - 4
+        4) Differentiability - 4
+        5) Method of Differentiability - 5
+        6) Application of Derivatives - 6
     5) Integral Calculus
-        1) Indefinite Integration - 6, 7
-        2) Definite Integration - 8, 9
-        3) Area Under The Curve - 10
-        4) Differential Equations - 11
+        1) Indefinite Integration - 7, 8
+        2) Definite Integration - 9, 10
+        3) Area Under The Curve - 11
+        4) Differential Equations - 12
     6) Vectors and 3D Geometry
-        1) Vectors - 12
-        2) 3D Geometry - 12
+        1) Vectors - 13
+        2) 3D Geometry - 13
 
 FIITJEE Final Lap
-    1) Part 1 - 19, 20, 21, 22, 23, 24, 25, 26
-    2) Part 2 - 27, 28, 29, 30, 1, 2, 3, 4
-    3) Part 3 - 5, 6, 7, 8, 9, 10, 11, 12
+    1) Part 1 - 22, 23, 24, 25, 26, 27
+    2) Part 2 - 28, 29, 30, 1, 2, 3
+    3) Part 3 - 4, 5, 6, 7, 8, 9
+
+Resonance DPPs:
+    1) Physics :
+        22, 23, 24, 25, 26, 27, 28, 29, 30 - 2
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 22 - 3
+        11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 - 4
+    2) Physical Chemistry
+        22, 23, 24, 25, 26, 27, 28, 29, 30 - 1
+        1, 2, 3, 4, 5, 6, 7 - 2
+        8, 9, 10, 11, 12 - 3
+        13 - 4
+    3) Maths
+        22, 23, 24, 25, 26, 27 - 2
+        28, 29, 30, 1, 2, 3 - 3
+        4, 5, 6, 7, 8, 9, 10 - 4
+        11, 12, 13, 14, 15 - 5
+Resonance TWTs:
+    1) Physics
+        16, 17, 18, 19 - 5
+        20 - 4
+    2) Physical Chemistry
+        16, 17, 18, 19, 20 - 3
+    3) Maths
+        16, 17, 18, 19, 20, 21 - 4
+Resonance Papers:
+    AITS: 
+    18, 19 - 2
+    20, 21 - 3
+    22, 23, 24 - 5
